@@ -1,0 +1,9 @@
+[submodule "contracts-web3calender"]
+	path = contracts-web3calender
+	url = https://github.com/Erroders/contracts-web3calender.git
+[submodule "subgraph-web3calender"]
+	path = subgraph-web3calender
+	url = https://github.com/Erroders/subgraph-web3calender.git
+[submodule "frontend-web3calender"]
+	path = frontend-web3calender
+	url = https://github.com/Erroders/frontend-web3calender.git
